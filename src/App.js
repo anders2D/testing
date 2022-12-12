@@ -1,9 +1,7 @@
 import Header from './header/Header';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import './App.css';
-import Adopta from './Adopta';
 import Mision from './componentes/Mision';
-import Acerca from './componentes/Acerca';
 import Fom from './header/Fom';
 
 
